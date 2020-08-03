@@ -1,0 +1,59 @@
+html {
+  font-size: 60%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  display: block;
+  margin: 8px;
+  text-align: center;
+  width: 100%;
+  margin-top: 0;
+  color: #000000;
+  line-height: 1.5;
+  font: 1.3em Georgia, times new roman, Times, serif;
+}
+.site-header {
+  text-align: center;
+  margin-left: 0;
+  display: block;
+  width: 100%;
+  position: relative;
+  margin-bottom: 0;
+}
+img {
+  border-radius: 50%;
+  height: auto;
+}
+a {
+  color: #1e73be;
+  cursor: pointer;
+}
+.site-title {
+  font-weight: 700;
+  font-family: myriad pro, Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-size: 16px;
+}
+h1 .entry.title {
+  font-size: 3.5em;
+  font-weight: 700;
+  margin: 20px 0px;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font: 19px;
+  font-size: 16px;
+  margin-top: 70px;
+  color: #666;
+}
+.site {
+  background-color: #fff;
+  margin: 80px auto;
+  padding: 0 40px;
+  max-width: 700px;
+  margin-bottom: 0;
+}
